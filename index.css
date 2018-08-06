@@ -1,0 +1,38 @@
+nav div.container ul li a {
+    color: white!important;
+}
+
+.display-2 {
+    font-size: 3rem;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+header {
+    background: url(images/bg.jpg) no-repeat bottom;
+    background-size: cover;
+    height: 400px;
+}
+
+header {
+    color: white;
+}
+
+.block {
+    padding: 1em;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 3px;
+}
+
+footer {
+    padding: 2rem 0 0 0;
+    color: #f8f8f8;
+    
+}
+
+footer>div:last-child {
+    background: #121315;
+}
